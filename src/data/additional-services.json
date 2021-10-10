@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Export Forwarding",
+        "summary": "We handle customs clearance and documentation."
+    },
+    {
+        "id": 2,
+        "name": "Import Customs Clearance",
+        "summary": "We handle cimport customs and regulatory requirements."
+    },
+    {
+        "id": 3,
+        "name": "Cargo Insurance",
+        "summary": "Protect your cargo from logistics risks up to its full value."
+    },
+    {
+        "id": 4,
+        "name": "Transport / Delivery",
+        "summary": "We deliver the cargo to your door step from the ports."
+    }
+]
